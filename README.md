@@ -3,7 +3,7 @@
 **Project Title:**
 Differential Gene Expression Analysis in Triple Negative Breast Cancer
 
-This project compares the bulk transcriptome of Triple Negative Breast Cancer (TNBC) primary tumor samples of TCGA Breast Invasive Carcinoma cohort and normal breaast tissue samples of GTEX cohort, through a differential gene expression analysis.
+This project compares the bulk transcriptome of Triple Negative Breast Cancer (TNBC) primary tumor samples of TCGA Breast Invasive Carcinoma cohort and normal breast tissue samples of GTEX cohort, through a differential gene expression analysis.
 
 **Methodology**
 <br>**1. Identification of TNBC Samples**
